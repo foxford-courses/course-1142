@@ -1,3 +1,3 @@
 # Index
 
-[test](test.md)
+[test](test.html)
