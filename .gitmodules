@@ -1,0 +1,3 @@
+[submodule "dhtml-chess"]
+	path = dhtml-chess
+	url = https://github.com/DHTMLGoodies/dhtmlchess.git
