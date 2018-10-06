@@ -1,0 +1,7 @@
+# Тестовое задание
+
+
+    <script src="../js/pgnvjs.js" type="text/javascript"></script>
+
+    <!-- CSS used -->
+    <link rel="stylesheet" href="../css/pgnvjs.css">
