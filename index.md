@@ -1,3 +1,3 @@
 # Index
 
-[test](test.html)
+[test](test-1.html)
